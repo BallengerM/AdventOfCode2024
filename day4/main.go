@@ -9,6 +9,7 @@ import (
 )
 
 // https://adventofcode.com/2024/day/4
+// UNSOLVED
 func main() {
 	part1()
 }
